@@ -1,5 +1,6 @@
 <template>
   <h1>{{ msg }}</h1>
+  <el-button type="success">成功按钮</el-button>
 
   <p>
     Recommended IDE setup:
